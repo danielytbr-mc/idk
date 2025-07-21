@@ -1,5 +1,8 @@
-# Links
+# just a git for testing :D
 ---
-You can select one of the links
 
+## projects
 [mcterraingen](mcterraingen/index.html)
+
+## libs
+[perlin noise lib](libs/perlin.js)
